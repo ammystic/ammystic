@@ -21,9 +21,8 @@ Protocols & Standards I'm familiar with: HTTP(S), WebSockets, JSON Web Tokens, J
 <br>
 
 <!--START_SECTION:waka-->
-
-```txt
 # What I am studying (right now)
+```txt
 - AntiCheat Based Security & Exploitation
 - Windows Security Exploitation
 - Windows Program & Kernel Based Protections
