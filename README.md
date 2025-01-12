@@ -6,7 +6,7 @@ I'm fluent in JavaScript, HTML, CSS, Python & C++
 Protocols & Standards I'm familiar with: HTTP(S), WebSockets, JSON Web Tokens, JSON, YAML, Markdown, TOML
 
 
-Join my [Discord server](https://discord.gg/rxFhY2DhpT) for updates on things I make
+<!--Join my [Discord server](https://discord.gg/rxFhY2DhpT) for updates on things I make-->
 
 **My PC Specs**:
 ![Windows 11 Pro](https://img.shields.io/badge/Windows-11_Pro-blue?logo=windows11)
