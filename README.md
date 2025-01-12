@@ -23,13 +23,12 @@ Protocols & Standards I'm familiar with: HTTP(S), WebSockets, JSON Web Tokens, J
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 10 November 2023
-
-JavaScript    11 hrs 12 mins  ################---------   62.05 %
-JSON          2 hrs 2 mins    ###----------------------   11.31 %
-TypeScript    1 hr 13 mins    ##-----------------------   06.80 %
-Python        53 mins         #------------------------   04.96 %
-HTML          53 mins         #------------------------   04.93 %
+# What I am studying (right now)
+- AntiCheat Based Security & Exploitation
+- Windows Security Exploitation
+- Windows Program & Kernel Based Protections
+- Windows Program & Kernel Based Exploitation
+- And much more Kernel & OS Related Cybersecurity.
 ```
 
 <!--END_SECTION:waka-->
